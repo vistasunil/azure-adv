@@ -4,7 +4,6 @@
 # modify the code below to reference your container registry
 # this action is currently deactivated. activate it by setting the push trigger correctly
 
-
 name: Build and Push GameBot
 
 on:
